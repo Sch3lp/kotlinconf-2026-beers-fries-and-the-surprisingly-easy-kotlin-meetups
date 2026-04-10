@@ -22,6 +22,27 @@ kodee:
   position: featured
 ---
 
+# Outline
+
+* Who are Simon and Tim
+  * Why we are the right people to give this talk
+  * How we met serendipitously
+* Challenges of organizing a meetup
+  * Quirks of Belgium (nederlands, francais, deutsch, bier, wafels, frieten, op een map)
+  * COVID hit
+  * Community spread -> "just go to brussels" not that easy
+* How we fixed it
+  * KTConf was a good catalyst
+  * Per region
+  * OpenSpace format
+    * What is it?
+    * Why does it work
+      * More interaction (stark contrast with covid times)
+      * Better community feeling
+* Lessons learned
+* Conclusions
+* Simon and Tim socials
+* Q & A
 
 # Welcome
 
@@ -29,9 +50,9 @@ Thanks for coming to our session!
 
 ---
 kodee:
-variant: greeting
-size: small
-position: corner
+  variant: greeting
+  size: small
+  position: corner
 ---
 
 
