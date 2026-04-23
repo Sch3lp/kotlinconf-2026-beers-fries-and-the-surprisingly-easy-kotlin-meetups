@@ -86,16 +86,44 @@ kodee:
 - BEKUG (Belgian Kotlin User Group) went quiet after COVID
 
 ---
+kodee:
+  variant: sitting
+  size: small
+  position: corner
+---
 
 # KotlinConf 2024
 
 We connected by chance.
 
-<v-click>
+<v-clicks>
 
-Went home **motivated** and **energised** to revive things.
+- Tim's commitment to organizing a conference made at Halifax
+- Went home **motivated** and **energised** to revive things.
 
-</v-click>
+</v-clicks>
+
+<img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
+
+---
+kodee:
+  variant: in-love
+  size: small
+  position: corner
+---
+
+# KTConf'25 was a catalyst
+
+<v-clicks>
+
+- 55 attendees
+- Vibin' speakers
+- September 2025 KTConf
+- December 2025 restarted BEKUG
+
+</v-clicks>
+
+<img src="/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
@@ -106,7 +134,7 @@ kodee:
 
 # The classic wall
 
-- No speakers
+- Finding one speaker is hard, let alone two
 - No momentum
 
 <v-click>
@@ -141,29 +169,31 @@ kodee:
 
 # How does OpenSpace work?
 
-1. Everyone gathers in a circle
-2. Anyone can propose a topic
-3. Topics go on a board with time slots and rooms
-4. You vote with your feet — go where you're curious
+<v-clicks>
 
-<v-click>
+1. Anyone can propose a topic
+2. Topics get pitched
+3. And go on a board with time slots and rooms
+4. Everybody rearranges the plan until it settles
 
-**One rule:** wherever you are is the right place.
-
-</v-click>
+</v-clicks>
 
 ---
 
 # The principles
 
-- **Whoever comes is the right people**
-- **Whatever happens is the only thing that could have**
-- **Whenever it starts is the right time**
-- **When it's over, it's over**
+<v-clicks>
 
+- Whenever it starts is the right time
+- Whoever comes is the right people
+- Whatever happens is the only thing that could have
+- When it's over, it's over
+
+</v-clicks>
+ 
 <v-click>
 
-And one law: **The Law of Two Feet**
+And one law: **The Law of Mobility**
 
 If you're not learning or contributing, move.
 
@@ -178,6 +208,22 @@ If you're not learning or contributing, move.
 - Sticky notes and markers
 - A brief intro explaining the format
 - Beers and fries help too 🍺🍟
+
+---
+
+# Why does it work
+
+<v-clicks>
+
+- More interaction (stark contrast with covid times)
+- Better community feeling
+
+</v-clicks>
+
+
+<!--
+Doesn't get in the way of people wanting to socialize
+-->
 
 ---
 kodee:

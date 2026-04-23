@@ -25,6 +25,46 @@ You don't need a perfect lineup. You just need to keep showing up.
 
 Takeaways: what OpenSpace is, how to run it for a meetup, and why organizing is worth it even when it feels hard.
 
+## Kodee config
+
+- **variant**: Choose from available Kodee images
+    - `greeting` - Kodee waving hello
+    - `wink` - Kodee winking
+    - `wave` - Kodee waving
+    - `jumping` - Kodee jumping with joy
+    - `sitting` - Kodee sitting down
+    - `drinking` - Kodee with a drink
+    - `heart` - Kodee with a heart
+    - `in-love` - Kodee in love
+    - `welcome` - Kodee welcoming
+    - `winter` - Kodee in winter attire
+    - `tiny` - Tiny Kodee
+
+- **size**: Control Kodee's size
+    - `small` - 200x200px (default)
+    - `large` - 600x600px (500x500px for wave variant)
+    - `medium` - TODO: Not yet implemented
+
+- **position**: Control Kodee's placement
+    - `corner` - Bottom right corner (default)
+    - `featured` - Prominently displayed on slide
+    - `custom` - Use with `x` and `y` coordinates
+
+#### Custom Positioning
+
+For precise control, use custom positioning:
+
+```yaml
+---
+kodee:
+  variant: greeting
+  position: custom
+  x: 100
+  y: 200
+  scale: 1.2
+---
+```
+
 ## 📄 License
 
 See [LICENSE](LICENSE) file for details.
