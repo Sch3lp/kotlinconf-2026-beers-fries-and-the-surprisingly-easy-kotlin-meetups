@@ -98,7 +98,7 @@ We connected by chance.
 
 <v-clicks>
 
-- Tim's commitment to organizing a conference made at Halifax
+- Commitment to organizing a conference made at Halifax
 - Went home **motivated** and **energised** to revive things.
 
 </v-clicks>
@@ -166,6 +166,11 @@ kodee:
 - Attendees build the agenda themselves on the day
 
 ---
+kodee:
+  variant: welcome
+  size: small
+  position: corner
+---
 
 # How does OpenSpace work?
 
@@ -178,7 +183,14 @@ kodee:
 
 </v-clicks>
 
+
 ---
+kodee:
+  variant: welcome
+  size: small
+  position: corner
+---
+
 
 # The principles
 
@@ -186,19 +198,24 @@ kodee:
 
 - Whenever it starts is the right time
 - Whoever comes is the right people
-- Whatever happens is the only thing that could have
 - When it's over, it's over
+- Whatever happens is the only thing that could have
 
 </v-clicks>
  
 <v-click>
 
-And one law: **The Law of Mobility**
+**The Law of Mobility**
 
 If you're not learning or contributing, move.
 
 </v-click>
 
+---
+kodee:
+  variant: welcome
+  size: small
+  position: corner
 ---
 
 # Running it for a meetup
@@ -209,6 +226,11 @@ If you're not learning or contributing, move.
 - A brief intro explaining the format
 - Beers and fries help too 🍺🍟
 
+---
+kodee:
+  variant: welcome
+  size: small
+  position: corner
 ---
 
 # Why does it work
