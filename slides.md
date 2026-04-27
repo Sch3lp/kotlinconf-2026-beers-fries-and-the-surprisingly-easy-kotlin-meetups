@@ -213,7 +213,7 @@ If you're not learning or contributing, move.
 
 ---
 kodee:
-  variant: welcome
+  variant: drinking
   size: small
   position: corner
 ---
@@ -258,15 +258,9 @@ kodee:
 
 > "I was skeptical, but it was really fun."
 
-<v-click>
-
-That was enough.
-
-</v-click>
-
 ---
 kodee:
-  variant: wink
+  variant: wave
   size: small
   position: corner
 ---
@@ -290,6 +284,11 @@ And people keep coming back.
 </v-click>
 
 ---
+kodee:
+  variant: wave
+  size: small
+  position: corner
+---
 
 # What we learned
 
@@ -302,6 +301,12 @@ And people keep coming back.
 
 </v-clicks>
 
+
+---
+kodee:
+  variant: heart
+  size: small
+  position: corner
 ---
 
 # Why organizing is worth it
@@ -317,7 +322,7 @@ And people keep coming back.
 
 ---
 kodee:
-  variant: greeting
+  variant: welcome
   size: small
   position: corner
 ---
@@ -330,7 +335,7 @@ kodee:
 
 ---
 kodee:
-  variant: greeting
+  variant: heart
   size: large
   position: featured
 ---
