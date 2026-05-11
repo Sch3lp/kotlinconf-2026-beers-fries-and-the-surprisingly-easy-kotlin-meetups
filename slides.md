@@ -2,6 +2,7 @@
 highlighter: shiki
 theme: kotlin
 transition: view-transition
+css: style.css
 ---
 
 # Kotlin Conf 2026
@@ -24,6 +25,9 @@ kodee:
 
 # Outline
 
+
+
+<!-- 
 * Who are Simon and Tim
   * Why we are the right people to give this talk
   * How we met serendipitously
@@ -43,6 +47,14 @@ kodee:
 * Conclusions
 * Simon and Tim socials
 * Q & A
+-->
+
+---
+kodee:
+  variant: greeting
+  size: small
+  position: corner
+---
 
 # Welcome
 
@@ -58,19 +70,19 @@ kodee:
 
 # Simon
 
-<img src="/simon.png" class="absolute bottom-4 right-4 w-1/2" />
+<img src="./public/simon.png" class="absolute bottom-4 right-4 w-1/2" />
 
 ---
 kodee:
-variant: greeting
-size: small
-position: corner
+  variant: greeting
+  size: small
+  position: corner
 ---
 
 
 # Tim
 
-<img src="/tim.png" class="absolute bottom-4 right-4 w-1/2" />
+<img src="/public/tim.png" class="absolute bottom-4 right-4 w-1/2" />
 
 ---
 kodee:
@@ -103,7 +115,7 @@ We connected by chance.
 
 </v-clicks>
 
-<img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
+<img src="./public/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
@@ -123,7 +135,7 @@ kodee:
 
 </v-clicks>
 
-<img src="/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
+<img src="./public/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
