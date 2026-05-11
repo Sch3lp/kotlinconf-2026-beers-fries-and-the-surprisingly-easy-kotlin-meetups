@@ -11,10 +11,27 @@ css: style.css
 
 `github.com/sch3lp/kotlinconf-2026-beers-fries-and-the-surprisingly-easy-kotlin-meetups`
 
-<br>
+---
 
-- Simon Vergauwen
-- Tim Schraepen
+# Presenters
+
+<div class="presenters-grid mt-8">
+  <div class="presenter-row">
+    <img src="./public/simon.png" class="presenter-photo" alt="Simon Vergauwen" />
+    <div>
+      <h2 class="presenter-name">Simon Vergauwen</h2>
+      <p class="presenter-role">Developer Advocate · Arrow-kt Maintainer</p>
+    </div>
+  </div>
+
+  <div class="presenter-row">
+    <img src="./public/tim.png" class="presenter-photo" alt="Tim Schraepen" />
+    <div>
+      <h2 class="presenter-name">Tim Schraepen</h2>
+      <p class="presenter-role">Co-organizer · Belgian Kotlin User Group (BEKUG)</p>
+    </div>
+  </div>
+</div>
 
 ---
 kodee:
@@ -25,7 +42,11 @@ kodee:
 
 # Outline
 
-
+* Challenges of organizing a meetup
+* How we fixed it
+* Lessons learned
+* Conclusions
+* Q & A
 
 <!-- 
 * Who are Simon and Tim
@@ -56,33 +77,13 @@ kodee:
   position: corner
 ---
 
-# Welcome
+# Belgium 🇧🇪
 
-Thanks for coming to our session!
+- Three languages
+- Scattered developer communities
+- BEKUG (Belgian Kotlin User Group) went quiet after COVID
 
----
-kodee:
-  variant: greeting
-  size: small
-  position: corner
----
-
-
-# Simon
-
-<img src="./public/simon.png" class="absolute bottom-4 right-4 w-1/2" />
-
----
-kodee:
-  variant: greeting
-  size: small
-  position: corner
----
-
-
-# Tim
-
-<img src="/public/tim.png" class="absolute bottom-4 right-4 w-1/2" />
+<img src="./public/flanders-wallonia-brussels.avif" />
 
 ---
 kodee:
@@ -96,6 +97,8 @@ kodee:
 - Three languages
 - Scattered developer communities
 - BEKUG (Belgian Kotlin User Group) went quiet after COVID
+
+<img src="./public/belgium-provinces-map.avif" />
 
 ---
 kodee:
