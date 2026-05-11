@@ -40,3 +40,12 @@
     font-weight: 700;
     color: #6f50e6;
 }
+
+.belgium-map {
+    display: block;
+    margin: 1.5rem auto 0;
+    padding-bottom: 0.75rem;
+    width: min(70%, 48rem);
+    max-height: min(38vh, calc(100vh - 20rem));
+    object-fit: contain;
+}

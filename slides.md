@@ -42,11 +42,15 @@ kodee:
 
 # Outline
 
+<v-clicks>
+
 * Challenges of organizing a meetup
 * How we fixed it
 * Lessons learned
 * Conclusions
 * Q & A
+
+</v-clicks>
 
 <!-- 
 * Who are Simon and Tim
@@ -77,13 +81,33 @@ kodee:
   position: corner
 ---
 
+# Belgium Kotlin User Group
+
+<v-clicks>
+
+- First edition ~2017
+- Small 5~10 people in Brussel
+- Went quiet after COVID
+
+</v-clicks>
+
+---
+kodee:
+  variant: greeting
+  size: small
+  position: corner
+---
+
 # Belgium 🇧🇪
 
-- Three languages
-- Scattered developer communities
-- BEKUG (Belgian Kotlin User Group) went quiet after COVID
+<v-clicks>
 
-<img src="./public/flanders-wallonia-brussels.avif" />
+- Three regions
+- Three languages not overlapping with regions
+
+</v-clicks>
+
+<img src="./public/flanders-wallonia-brussels.avif" class="belgium-map" />
 
 ---
 kodee:
@@ -94,11 +118,15 @@ kodee:
 
 # Belgium 🇧🇪
 
-- Three languages
-- Scattered developer communities
-- BEKUG (Belgian Kotlin User Group) went quiet after COVID
+<v-clicks>
 
-<img src="./public/belgium-provinces-map.avif" />
+- 10 provinces
+- Scattered developer communities
+- Workers from home in all regions
+
+</v-clicks>
+
+<img src="./public/belgium-provinces-map.avif" class="belgium-map" />
 
 ---
 kodee:
