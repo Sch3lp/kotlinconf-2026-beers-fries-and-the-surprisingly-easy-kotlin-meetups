@@ -2,6 +2,7 @@
 highlighter: shiki
 theme: kotlin
 transition: view-transition
+css: style.css
 ---
 
 # Kotlin Conf 2026
@@ -10,10 +11,27 @@ transition: view-transition
 
 `github.com/sch3lp/kotlinconf-2026-beers-fries-and-the-surprisingly-easy-kotlin-meetups`
 
-<br>
+---
 
-- Simon Vergauwen
-- Tim Schraepen
+# Presenters
+
+<div class="presenters-grid mt-8">
+  <div class="presenter-row">
+    <img src="./public/simon.png" class="presenter-photo" alt="Simon Vergauwen" />
+    <div>
+      <h2 class="presenter-name">Simon Vergauwen</h2>
+      <p class="presenter-role">Developer Advocate · Arrow-kt Maintainer</p>
+    </div>
+  </div>
+
+  <div class="presenter-row">
+    <img src="./public/tim.png" class="presenter-photo" alt="Tim Schraepen" />
+    <div>
+      <h2 class="presenter-name">Tim Schraepen</h2>
+      <p class="presenter-role">Co-organizer · Belgian Kotlin User Group (BEKUG)</p>
+    </div>
+  </div>
+</div>
 
 ---
 kodee:
@@ -24,6 +42,17 @@ kodee:
 
 # Outline
 
+<v-clicks>
+
+* Challenges of organizing a meetup
+* How we fixed it
+* Lessons learned
+* Conclusions
+* Q & A
+
+</v-clicks>
+
+<!-- 
 * Who are Simon and Tim
   * Why we are the right people to give this talk
   * How we met serendipitously
@@ -43,10 +72,7 @@ kodee:
 * Conclusions
 * Simon and Tim socials
 * Q & A
-
-# Welcome
-
-Thanks for coming to our session!
+-->
 
 ---
 kodee:
@@ -55,22 +81,33 @@ kodee:
   position: corner
 ---
 
+# Belgium Kotlin User Group
 
-# Simon
+<v-clicks>
 
-<img src="/simon.png" class="absolute bottom-4 right-4 w-1/2" />
+- First edition ~2017
+- Small 5~10 people in Brussel
+- Went quiet after COVID
+
+</v-clicks>
 
 ---
 kodee:
-variant: greeting
-size: small
-position: corner
+  variant: greeting
+  size: small
+  position: corner
 ---
 
+# Belgium 🇧🇪
 
-# Tim
+<v-clicks>
 
-<img src="/tim.png" class="absolute bottom-4 right-4 w-1/2" />
+- Three regions
+- Three languages not overlapping with regions
+
+</v-clicks>
+
+<img src="./public/flanders-wallonia-brussels.avif" class="belgium-map" />
 
 ---
 kodee:
@@ -81,9 +118,15 @@ kodee:
 
 # Belgium 🇧🇪
 
-- Three languages
+<v-clicks>
+
+- 10 provinces
 - Scattered developer communities
-- BEKUG (Belgian Kotlin User Group) went quiet after COVID
+- Workers from home in all regions
+
+</v-clicks>
+
+<img src="./public/belgium-provinces-map.avif" class="belgium-map" />
 
 ---
 kodee:
@@ -103,7 +146,7 @@ We connected by chance.
 
 </v-clicks>
 
-<img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
+<img src="./public/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
@@ -123,7 +166,7 @@ kodee:
 
 </v-clicks>
 
-<img src="/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
+<img src="./public/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
