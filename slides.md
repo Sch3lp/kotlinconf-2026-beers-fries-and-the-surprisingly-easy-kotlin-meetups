@@ -17,7 +17,7 @@ css: style.css
 
 <div class="presenters-grid mt-8">
   <div class="presenter-row">
-    <img src="./public/simon.png" class="presenter-photo" alt="Simon Vergauwen" />
+    <img src="/simon.png" class="presenter-photo" alt="Simon Vergauwen" />
     <div>
       <h2 class="presenter-name">Simon Vergauwen</h2>
       <p class="presenter-role">Developer Advocate · Arrow-kt Maintainer</p>
@@ -25,13 +25,18 @@ css: style.css
   </div>
 
   <div class="presenter-row">
-    <img src="./public/tim.png" class="presenter-photo" alt="Tim Schraepen" />
+    <img src="/tim.png" class="presenter-photo" alt="Tim Schraepen" />
     <div>
       <h2 class="presenter-name">Tim Schraepen</h2>
       <p class="presenter-role">Co-organizer · Belgian Kotlin User Group (BEKUG)</p>
     </div>
   </div>
 </div>
+
+<!-- 
+* Who are Simon and Tim
+  * Why we are the right people to give this talk
+-->
 
 ---
 kodee:
@@ -51,28 +56,6 @@ kodee:
 * Q & A
 
 </v-clicks>
-
-<!-- 
-* Who are Simon and Tim
-  * Why we are the right people to give this talk
-  * How we met serendipitously
-* Challenges of organizing a meetup
-  * Quirks of Belgium (nederlands, francais, deutsch, bier, wafels, frieten, op een map)
-  * COVID hit
-  * Community spread -> "just go to brussels" not that easy
-* How we fixed it
-  * KTConf was a good catalyst
-  * Per region
-  * OpenSpace format
-    * What is it?
-    * Why does it work
-      * More interaction (stark contrast with covid times)
-      * Better community feeling
-* Lessons learned
-* Conclusions
-* Simon and Tim socials
-* Q & A
--->
 
 ---
 kodee:
@@ -107,7 +90,7 @@ kodee:
 
 </v-clicks>
 
-<img src="./public/flanders-wallonia-brussels.avif" class="belgium-map" />
+<img src="/flanders-wallonia-brussels.avif" class="belgium-map" />
 
 ---
 kodee:
@@ -126,7 +109,7 @@ kodee:
 
 </v-clicks>
 
-<img src="./public/belgium-provinces-map.avif" class="belgium-map" />
+<img src="/belgium-provinces-map.avif" class="belgium-map" />
 
 ---
 kodee:
@@ -146,7 +129,7 @@ We connected by chance.
 
 </v-clicks>
 
-<img src="./public/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
+<img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
@@ -166,7 +149,7 @@ kodee:
 
 </v-clicks>
 
-<img src="./public/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
+<img src="/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
 
 ---
 kodee:
@@ -387,3 +370,10 @@ kodee:
 
 - Questions?
 - Find us: **BEKUG** — Belgian Kotlin User Group
+- Todo: add socials
+
+---
+
+# Rate this talk
+
+Rate this talk page goes here
