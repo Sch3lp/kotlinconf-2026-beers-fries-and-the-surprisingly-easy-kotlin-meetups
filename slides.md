@@ -355,9 +355,9 @@ kodee:
 
 # Takeaways
 
-1. **What** OpenSpace is — a self-organizing meeting format
-2. **How** to run it for a meetup — low effort, high reward
-3. **Why** organizing is worth it — even when it feels hard
+1. **What** OpenSpace is · a self-organizing meeting format
+2. **How** to run it for a meetup · low effort, high reward
+3. **Why** organizing is worth it · even when it feels hard
 
 ---
 kodee:
@@ -369,7 +369,7 @@ kodee:
 # Thank you!
 
 - Questions?
-- Find us: **BEKUG** — Belgian Kotlin User Group
+- Find us: **BEKUG** · Belgian Kotlin User Group
 - Todo: add socials
 
 ---
