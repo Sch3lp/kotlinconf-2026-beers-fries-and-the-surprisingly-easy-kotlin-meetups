@@ -57,6 +57,10 @@ kodee:
 
 </v-clicks>
 
+<!--
+Tim
+-->
+
 ---
 kodee:
   variant: greeting
@@ -73,6 +77,10 @@ kodee:
 - Went quiet after COVID
 
 </v-clicks>
+
+<!--
+Simon
+-->
 
 ---
 kodee:
@@ -92,6 +100,10 @@ kodee:
 
 <img src="/flanders-wallonia-brussels.avif" class="belgium-map" />
 
+<!--
+Simon
+-->
+
 ---
 kodee:
   variant: sitting
@@ -110,6 +122,10 @@ kodee:
 </v-clicks>
 
 <img src="/belgium-provinces-map.avif" class="belgium-map" />
+
+<!--
+Simon
+-->
 
 ---
 kodee:
@@ -131,6 +147,10 @@ We connected by chance.
 
 <img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
 
+<!--
+Simon, then Tim
+-->
+
 ---
 kodee:
   variant: in-love
@@ -151,6 +171,10 @@ kodee:
 
 <img src="/ktconf_blue.png" class="absolute top-4 right-4 w-1/4" />
 
+<!--
+Tim
+-->
+
 ---
 kodee:
   variant: sitting
@@ -169,6 +193,10 @@ How do you run a meetup without a lineup?
 
 </v-click>
 
+<!--
+Simon
+-->
+
 ---
 kodee:
   variant: welcome
@@ -177,6 +205,10 @@ kodee:
 ---
 
 # What if we didn't need speakers?
+
+<!--
+Tim
+-->
 
 ---
 kodee:
@@ -190,6 +222,14 @@ kodee:
 - No CFP
 - No pressure
 - Attendees build the agenda themselves on the day
+
+<!--
+Tim
+
+Story of Harrison Owen
+
+Feedback talks at coffee best
+-->
 
 ---
 kodee:
@@ -209,6 +249,9 @@ kodee:
 
 </v-clicks>
 
+<!--
+Tim
+-->
 
 ---
 kodee:
@@ -237,6 +280,10 @@ If you're not learning or contributing, move.
 
 </v-click>
 
+<!--
+Tim
+-->
+
 ---
 kodee:
   variant: drinking
@@ -251,6 +298,10 @@ kodee:
 - Sticky notes and markers
 - A brief intro explaining the format
 - Beers and fries help too 🍺🍟
+
+<!--
+Simon
+-->
 
 ---
 kodee:
@@ -270,6 +321,8 @@ kodee:
 
 
 <!--
+Simon
+
 Doesn't get in the way of people wanting to socialize
 -->
 
@@ -283,6 +336,10 @@ kodee:
 # The skeptic
 
 > "I was skeptical, but it was really fun."
+
+<!--
+Simon
+-->
 
 ---
 kodee:
@@ -299,7 +356,7 @@ kodee:
 
 <v-click>
 
-But every session has organically produced **community-driven conversation**.
+Every session has organically produced **community-driven conversation**.
 
 </v-click>
 
@@ -308,6 +365,12 @@ But every session has organically produced **community-driven conversation**.
 And people keep coming back.
 
 </v-click>
+
+<!--
+Simon then Tim
+
+Story February Meetup: 35 attendees, 12 were doing sessions, others just talking
+-->
 
 ---
 kodee:
@@ -327,6 +390,9 @@ kodee:
 
 </v-clicks>
 
+<!--
+Tim
+-->
 
 ---
 kodee:
@@ -346,6 +412,10 @@ kodee:
 
 </v-clicks>
 
+<!--
+Tim
+-->
+
 ---
 kodee:
   variant: welcome
@@ -358,6 +428,10 @@ kodee:
 1. **What** OpenSpace is · a self-organizing meeting format
 2. **How** to run it for a meetup · low effort, high reward
 3. **Why** organizing is worth it · even when it feels hard
+
+<!--
+Simon
+-->
 
 ---
 kodee:
