@@ -98,7 +98,7 @@ kodee:
 
 </v-clicks>
 
-<img src="/flanders-wallonia-brussels.avif" class="belgium-map" />
+<img src="/flanders-wallonia-brussels.avif" class="absolute right-8 top-20 bottom-4 w-2/5 rounded-xl object-contain" />
 
 <!--
 Simon
@@ -121,7 +121,8 @@ kodee:
 
 </v-clicks>
 
-<img src="/belgium-provinces-map.avif" class="belgium-map" />
+
+<img src="/belgium-provinces-map.avif" class="absolute right-8 top-20 bottom-4 w-2/5 rounded-xl object-contain" />
 
 <!--
 Simon
@@ -145,7 +146,7 @@ We connected by chance.
 
 </v-clicks>
 
-<img src="/halifax-burger-copenhagen.png" class="absolute top-4 right-4 w-1/4" />
+<img src="/halifax-burger-copenhagen.png" class="absolute right-8 top-16 bottom-4 w-1/4 rounded-xl object-contain" />
 
 <!--
 Simon, then Tim
@@ -249,6 +250,8 @@ kodee:
 
 </v-clicks>
 
+<img src="/socrates-agenda.jpeg" class="absolute right-8 top-20 bottom-4 w-2/5 rounded-xl object-contain" />
+
 <!--
 Tim
 -->
@@ -293,11 +296,17 @@ kodee:
 
 # Running it for a meetup
 
+<v-clicks>
+
 - Find a venue with 2–3 breakout spaces
 - Prepare a big visible grid (time slots × rooms)
 - Sticky notes and markers
 - A brief intro explaining the format
 - Beers and fries help too 🍺🍟
+
+</v-clicks>
+
+<img src="/marketplace-december.jpeg" class="absolute right-8 top-20 bottom-4 w-2/5 rounded-xl object-contain" />
 
 <!--
 Simon
@@ -335,7 +344,11 @@ kodee:
 
 # The skeptic
 
-> "I was skeptical, but it was really fun."
+<div class="flex flex-col items-center justify-center h-3/4 gap-6">
+  <div class="w-16 h-1 bg-[#6f50e6]"></div>
+  <p class="text-3xl italic text-center leading-relaxed">"I was skeptical, but it was really fun."</p>
+  <div class="w-16 h-1 bg-[#6f50e6]"></div>
+</div>
 
 <!--
 Simon
@@ -436,15 +449,26 @@ Simon
 ---
 kodee:
   variant: heart
-  size: large
-  position: featured
+  size: small
+  position: corner
 ---
 
 # Thank you!
 
-- Questions?
-- Find us: **BEKUG** · Belgian Kotlin User Group
-- Todo: add socials
+Questions? Find us at **BEKUG** · Belgian Kotlin User Group
+
+<div class="flex gap-16 mt-6">
+  <div>
+    <p class="font-bold text-xl">Tim Schraepen</p>
+    <p class="text-[#6f50e6]">🦋 @sch3lp.bsky.social</p>
+  </div>
+  <div>
+    <p class="font-bold text-xl">Simon Vergauwen</p>
+    <p class="text-[#6f50e6]">🦋 @vergauwensimon.bsky.social</p>
+  </div>
+</div>
+
+<img src="/schelpkodee.jpeg" class="absolute right-8 top-16 bottom-4 w-1/4 rounded-xl object-contain" />
 
 ---
 
