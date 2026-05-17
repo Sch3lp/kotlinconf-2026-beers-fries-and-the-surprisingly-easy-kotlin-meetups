@@ -35,7 +35,6 @@ css: style.css
 
 <!-- 
 * Who are Simon and Tim
-  * Why we are the right people to give this talk
 -->
 
 ---
@@ -59,6 +58,8 @@ kodee:
 
 <!--
 Tim
+
+Simon start with how it began?
 -->
 
 ---
@@ -209,6 +210,10 @@ kodee:
 
 <!--
 Tim
+
+Story of Harrison Owen
+
+General feedback was: talks at coffee best
 -->
 
 ---
@@ -220,16 +225,13 @@ kodee:
 
 # OpenSpace
 
+- Attendees build the agenda themselves on the day
 - No CFP
 - No pressure
-- Attendees build the agenda themselves on the day
 
 <!--
 Tim
 
-Story of Harrison Owen
-
-Feedback talks at coffee best
 -->
 
 ---
@@ -245,7 +247,7 @@ kodee:
 
 1. Anyone can propose a topic
 2. Topics get pitched
-3. And go on a board with time slots and rooms
+3. These go on a board
 4. Everybody rearranges the plan until it settles
 
 </v-clicks>
@@ -285,6 +287,8 @@ If you're not learning or contributing, move.
 
 <!--
 Tim
+
+How does that map to the meetup Simon?
 -->
 
 ---
@@ -416,14 +420,10 @@ kodee:
 
 # Why organizing is worth it
 
-<v-clicks>
-
 - Even when it feels hard
 - Even when turnout is uncertain
 - Even when you're not sure it "worked"
 - The community grows **because** you showed up
-
-</v-clicks>
 
 <!--
 Tim
@@ -438,9 +438,13 @@ kodee:
 
 # Takeaways
 
+<v-clicks>
+
 1. **What** OpenSpace is · a self-organizing meeting format
 2. **How** to run it for a meetup · low effort, high reward
 3. **Why** organizing is worth it · even when it feels hard
+
+</v-clicks>
 
 <!--
 Simon
@@ -455,7 +459,11 @@ kodee:
 
 # Thank you!
 
-Questions? Find us at **BEKUG** · Belgian Kotlin User Group
+Questions?
+
+Find us on Meetup: **BEKUG** · Belgian Kotlin User Group.
+
+Or in #belgium on the kotlinlang Slack.
 
 <div class="flex gap-16 mt-6">
   <div>
