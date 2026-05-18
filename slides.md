@@ -75,6 +75,8 @@ kodee:
 
 - First edition ~2017
 - Small 5~10 people in Brussel
+  - Google announced Kotlin as the official language for Android
+  - Split in communities
 - Went quiet after COVID
 
 </v-clicks>
